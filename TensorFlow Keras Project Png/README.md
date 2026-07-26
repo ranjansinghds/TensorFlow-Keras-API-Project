@@ -104,12 +104,12 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
 
 Here are some visualizations from the project:
 
-![alt text](https://github.com/27abhishek27/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Create%20a%20bar%20plot%20showing%20the%20correlation%20of%20the%20numeric%20features%20to%20the%20new%20loan_repaid%20column.png)
-![alt text](https://github.com/27abhishek27/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Display%20a%20count%20plot%20per%20subgrade%20with%20loan_status.png)
-![alt text](https://github.com/27abhishek27/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/It%20looks%20like%20F%20and%20G%20subgrades%20don't%20get%20paid%20back%20that%20often.png)
-![alt text](https://github.com/27abhishek27/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Scatterplot.png)
-![alt text](https://github.com/27abhishek27/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Visualize%20this%20using%20a%20heatmap.png)
-![alt text](https://github.com/27abhishek27/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/we%20will%20be%20attempting%20to%20predict%20loan_status%2C%20create%20a%20countplot.png)
+![alt text](https://github.com/ranjansinghds/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Display%20a%20count%20plot%20per%20subgrade%20with%20loan_status.png)
+![alt text](https://github.com/ranjansinghds/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Create%20a%20bar%20plot%20showing%20the%20correlation%20of%20the%20numeric%20features%20to%20the%20new%20loan_repaid%20column.png)
+![alt text](https://github.com/ranjansinghds/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Display%20a%20count%20plot%20per%20subgrade.png)
+![alt text](https://github.com/ranjansinghds/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Scatterplot.png)
+![alt text](https://github.com/ranjansinghds/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/Visualize%20this%20using%20a%20heatmap.png)
+![alt text](https://github.com/ranjansinghds/TensorFlow-Keras-API-Project/blob/main/TensorFlow%20Keras%20Project%20Png/count%20plot%20of%20the%20emp_length%20feature%20column.png)
 
 ## 🛠️ Technologies Used
 
